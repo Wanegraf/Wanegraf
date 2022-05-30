@@ -48,8 +48,7 @@ public class PDFReaderRename {
         eolicas.put("35823538000261", "JANDAIRA I");
         eolicas.put("35823536000272", "JANDAIRA III");
         eolicas.put("35823577000269", "JANDAIRA IV");
-        eolicas.put("31478575000148", "VILA PARAIBA IV");
-        eolicas.put("04370282000170", "COPEL");
+        eolicas.put("35824347000214", "JANDAIRA II");
     }
 
     public static void main(String[] args) {
